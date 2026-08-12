@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Greedy
 |  |
