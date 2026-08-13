@@ -3,7 +3,7 @@ class Solution {
 
         int[] freq = new int[26];
 
-        // Count frequency
+        
         for (char c : s.toCharArray()) {
             freq[c - 'a']++;
         }
