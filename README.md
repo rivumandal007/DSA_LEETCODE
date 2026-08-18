@@ -103,20 +103,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -125,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0783-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
