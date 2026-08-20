@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3719-longest-balanced-subarray-i](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
+| [3745-maximize-expression-of-three-elements](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3745-maximize-expression-of-three-elements) |
 | [3842-toggle-light-bulbs](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3842-toggle-light-bulbs) |
 ## Hash Table
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3745-maximize-expression-of-three-elements](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3745-maximize-expression-of-three-elements) |
 | [3842-toggle-light-bulbs](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3842-toggle-light-bulbs) |
 ## Bit Manipulation
 |  |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2697-lexicographically-smallest-palindrome) |
+| [3745-maximize-expression-of-three-elements](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3745-maximize-expression-of-three-elements) |
 ## Math
 |  |
 | ------- |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3745-maximize-expression-of-three-elements](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3745-maximize-expression-of-three-elements) |
 ## Number Theory
 |  |
 | ------- |
