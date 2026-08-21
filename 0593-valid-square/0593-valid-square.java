@@ -20,7 +20,7 @@ class Solution {
         //diagonal 2
         double di2 = distrance(p3, p4);
         System.out.println(a1 + " " + a2 + " " + a3 + " " + a4 + " " + di1 + " " + di2);
-        HashSet<Double> set = new HashSet<> ();
+        
        HashMap<Double, Integer> map = new HashMap<>();
 
         map.put(a1, map.getOrDefault(a1, 0) + 1);
