@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0053-maximum-subarray) |
 | [0137-single-number-ii](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0137-single-number-ii) |
+| [0164-maximum-gap](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0164-maximum-gap) |
 | [0832-flipping-an-image](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0832-flipping-an-image) |
 | [0953-verifying-an-alien-dictionary](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0953-verifying-an-alien-dictionary) |
 | [2574-left-and-right-sum-differences](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2574-left-and-right-sum-differences) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0164-maximum-gap) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -149,4 +151,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0783-minimum-distance-between-bst-nodes) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
