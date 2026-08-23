@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0832-flipping-an-image) |
 | [0953-verifying-an-alien-dictionary](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0953-verifying-an-alien-dictionary) |
 | [1051-height-checker](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1051-height-checker) |
+| [2073-time-needed-to-buy-tickets](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2073-time-needed-to-buy-tickets) |
 | [2574-left-and-right-sum-differences](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0832-flipping-an-image) |
+| [2073-time-needed-to-buy-tickets](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2073-time-needed-to-buy-tickets) |
 | [3842-toggle-light-bulbs](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3842-toggle-light-bulbs) |
 ## Segment Tree
 |  |
@@ -184,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+## Queue
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
