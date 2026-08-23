@@ -3,7 +3,7 @@ class Solution {
 
         while (true) {
 
-            int original = n;
+            int temp = n;
             int sum = 0;
             for (int i = 2; i <= n / i; i++) {
                 while (n % i == 0) {
@@ -14,7 +14,7 @@ class Solution {
             if (n > 1) {
                 sum += n;
             }
-            if (sum == original) {
+            if (sum == temp) {
                 return sum;
             }
             n = sum;
