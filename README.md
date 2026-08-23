@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0137-single-number-ii) |
 | [0832-flipping-an-image](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0832-flipping-an-image) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0507-perfect-number) |
 | [0593-valid-square](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0593-valid-square) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3783-mirror-distance-of-an-integer](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3783-mirror-distance-of-an-integer) |
