@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0443-string-compression) |
 | [0953-verifying-an-alien-dictionary](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0953-verifying-an-alien-dictionary) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2697-lexicographically-smallest-palindrome) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0053-maximum-subarray) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Matrix
 |  |
 | ------- |
@@ -178,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1051-height-checker) |
+## Stack
+|  |
+| ------- |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 <!---LeetCode Topics End-->
