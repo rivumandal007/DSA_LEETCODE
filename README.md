@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3745-maximize-expression-of-three-elements) |
 | [3842-toggle-light-bulbs](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3842-toggle-light-bulbs) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 | [3842-toggle-light-bulbs](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3842-toggle-light-bulbs) |
 ## Sorting
