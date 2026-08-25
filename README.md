@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0593-valid-square](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0593-valid-square) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
