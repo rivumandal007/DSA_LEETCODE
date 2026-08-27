@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0053-maximum-subarray) |
+| [0120-triangle](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0120-triangle) |
 | [0137-single-number-ii](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0137-single-number-ii) |
 | [0164-maximum-gap](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0164-maximum-gap) |
 | [0832-flipping-an-image](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0832-flipping-an-image) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0053-maximum-subarray) |
+| [0120-triangle](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0120-triangle) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Matrix
 |  |
