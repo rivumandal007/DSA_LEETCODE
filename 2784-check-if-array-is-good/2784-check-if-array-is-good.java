@@ -15,9 +15,7 @@ class Solution {
             i++;
             j--;
         }
-        System.out.println(map.size());
-        System.out.println(max);
-         System.out.println(map.get(max));
+        
 
         return map.get(max) == 2 && nums.length == max + 1 && map.size() == max ? true : false;
         
