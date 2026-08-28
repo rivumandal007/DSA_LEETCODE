@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2073-time-needed-to-buy-tickets) |
 | [2574-left-and-right-sum-differences](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2784-check-if-array-is-good](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2784-check-if-array-is-good) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-verifying-an-alien-dictionary](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0953-verifying-an-alien-dictionary) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2784-check-if-array-is-good](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2784-check-if-array-is-good) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1051-height-checker) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [2784-check-if-array-is-good](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3745-maximize-expression-of-three-elements) |
