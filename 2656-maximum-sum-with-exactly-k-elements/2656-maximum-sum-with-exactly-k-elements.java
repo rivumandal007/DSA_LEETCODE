@@ -13,8 +13,6 @@ class Solution {
             
             ans += n;
            
-            System.out.println("ANS" + " " +ans);
-            System.out.println(max);
         }
         return ans;
     }
