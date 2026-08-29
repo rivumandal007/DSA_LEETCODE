@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2057-smallest-index-with-equal-value](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2057-smallest-index-with-equal-value) |
 | [2073-time-needed-to-buy-tickets](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2073-time-needed-to-buy-tickets) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2574-left-and-right-sum-differences](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2784-check-if-array-is-good](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2784-check-if-array-is-good) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1051-height-checker) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2784-check-if-array-is-good](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -134,12 +136,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0832-flipping-an-image) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Simulation
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0844-backspace-string-compare) |
 | [2073-time-needed-to-buy-tickets](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2073-time-needed-to-buy-tickets) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3842-toggle-light-bulbs](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3842-toggle-light-bulbs) |
 ## Segment Tree
@@ -253,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3436-find-valid-emails](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3436-find-valid-emails) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2500-delete-greatest-value-in-each-row](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2500-delete-greatest-value-in-each-row) |
 <!---LeetCode Topics End-->
