@@ -1,15 +1,21 @@
+
 class Solution {
     public int maxDistinct(String s) {
-        int ans = 0;
-        HashMap <Character, Integer> map = new HashMap <>();
-        for(int i = 0; i < s.length(); i++){
-            Character ch = s.charAt(i);
-            map.put(ch, map.getOrDefault(ch, 0) + 1);
-            if(map.get(ch) == 1){
-                ans++;
+
+        boolean[] seen = new boolean[26];
+        int count = 0;
+
+        for (int i = 0; i < s.length(); i++) {
+
+            int index = s.charAt(i) - 'a';
+
+            if (!seen[index]) {
+                seen[index] = true;
+                count++;
             }
-            
         }
-        return ans;
+
+        return count;
     }
 }
+
