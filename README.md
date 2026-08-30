@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2057-smallest-index-with-equal-value](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2057-smallest-index-with-equal-value) |
 | [2073-time-needed-to-buy-tickets](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2073-time-needed-to-buy-tickets) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2574-left-and-right-sum-differences](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2656-maximum-sum-with-exactly-k-elements) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3745-maximize-expression-of-three-elements](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3745-maximize-expression-of-three-elements) |
