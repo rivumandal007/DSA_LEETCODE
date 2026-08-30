@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0120-triangle) |
 | [0137-single-number-ii](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0137-single-number-ii) |
 | [0164-maximum-gap](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0164-maximum-gap) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0832-flipping-an-image](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0832-flipping-an-image) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0944-delete-columns-to-make-sorted](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0944-delete-columns-to-make-sorted) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0953-verifying-an-alien-dictionary](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0953-verifying-an-alien-dictionary) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0164-maximum-gap) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1051-height-checker](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1051-height-checker) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
