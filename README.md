@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-verifying-an-alien-dictionary](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0953-verifying-an-alien-dictionary) |
 | [1046-last-stone-weight](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1051-height-checker) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2057-smallest-index-with-equal-value](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2057-smallest-index-with-equal-value) |
 | [2073-time-needed-to-buy-tickets](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2073-time-needed-to-buy-tickets) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2656-maximum-sum-with-exactly-k-elements) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0507-perfect-number) |
 | [0593-valid-square](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0593-valid-square) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2769-find-the-maximum-achievable-number) |
