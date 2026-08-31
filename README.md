@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2264-largest-3-same-digit-number-in-string) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2769-find-the-maximum-achievable-number) |
