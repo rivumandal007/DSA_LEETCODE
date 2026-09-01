@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1051-height-checker) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1701-average-waiting-time](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1701-average-waiting-time) |
 | [1833-maximum-ice-cream-bars](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [2057-smallest-index-with-equal-value](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2057-smallest-index-with-equal-value) |
 | [2073-time-needed-to-buy-tickets](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2073-time-needed-to-buy-tickets) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0832-flipping-an-image](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0844-backspace-string-compare) |
+| [1701-average-waiting-time](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1701-average-waiting-time) |
 | [2073-time-needed-to-buy-tickets](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2073-time-needed-to-buy-tickets) |
 | [2105-watering-plants-ii](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2105-watering-plants-ii) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2500-delete-greatest-value-in-each-row) |
