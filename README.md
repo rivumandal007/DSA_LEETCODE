@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0053-maximum-subarray) |
 | [0120-triangle](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0120-triangle) |
 | [0137-single-number-ii](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0137-single-number-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0164-maximum-gap) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0704-binary-search](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0704-binary-search) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0450-delete-node-in-a-bst](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
 | [0704-binary-search](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0704-binary-search) |
