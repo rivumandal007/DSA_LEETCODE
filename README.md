@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0043-multiply-strings) |
 | [0115-distinct-subsequences](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0443-string-compression](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0443-string-compression) |
 | [0844-backspace-string-compare](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0844-backspace-string-compare) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0043-multiply-strings) |
 | [0507-perfect-number](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0507-perfect-number) |
 | [0593-valid-square](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0593-valid-square) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0043-multiply-strings) |
 | [0832-flipping-an-image](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0844-backspace-string-compare) |
 | [1701-average-waiting-time](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1701-average-waiting-time) |
