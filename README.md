@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0844-backspace-string-compare) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2105-watering-plants-ii](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2105-watering-plants-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## String
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2399-check-distances-between-same-letters](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2399-check-distances-between-same-letters) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3745-maximize-expression-of-three-elements](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3745-maximize-expression-of-three-elements) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0120-triangle) |
 | [0940-distinct-subsequences-ii](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0940-distinct-subsequences-ii) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Matrix
 |  |
