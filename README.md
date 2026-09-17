@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1051-height-checker) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1701-average-waiting-time](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1701-average-waiting-time) |
 | [1833-maximum-ice-cream-bars](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0953-verifying-an-alien-dictionary](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0953-verifying-an-alien-dictionary) |
 | [1399-count-largest-group](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1399-count-largest-group) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0120-triangle) |
 | [0940-distinct-subsequences-ii](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0940-distinct-subsequences-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -311,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [0938-range-sum-of-bst](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3824-minimum-k-to-reduce-array-within-limit](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 ## Bucket Sort
