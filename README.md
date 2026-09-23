@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1701-average-waiting-time](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1701-average-waiting-time) |
 | [1833-maximum-ice-cream-bars](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2559-count-vowel-strings-in-ranges) |
