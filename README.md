@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1672-richest-customer-wealth](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [1701-average-waiting-time](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1701-average-waiting-time) |
 | [1833-maximum-ice-cream-bars](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0832-flipping-an-image](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0835-image-overlap) |
+| [1672-richest-customer-wealth](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Simulation
