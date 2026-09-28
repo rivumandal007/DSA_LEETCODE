@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1446-consecutive-characters](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1446-consecutive-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0844-backspace-string-compare](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0844-backspace-string-compare) |
 | [1096-brace-expansion-ii](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1096-brace-expansion-ii) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Queue
 |  |
@@ -444,4 +446,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1096-brace-expansion-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
