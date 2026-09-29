@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2073-time-needed-to-buy-tickets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2105-watering-plants-ii](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2105-watering-plants-ii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2399-check-distances-between-same-letters](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2399-check-distances-between-same-letters) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2559-count-vowel-strings-in-ranges) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3524-find-x-value-of-array-i) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0835-image-overlap) |
 | [1672-richest-customer-wealth](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1672-richest-customer-wealth) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Simulation
@@ -450,4 +453,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
