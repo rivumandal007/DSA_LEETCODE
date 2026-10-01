@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2784-check-if-array-is-good) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Two Pointers
 |  |
