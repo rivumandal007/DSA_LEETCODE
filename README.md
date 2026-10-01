@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2579-count-total-number-of-colored-cells](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2579-count-total-number-of-colored-cells) |
 | [2769-find-the-maximum-achievable-number](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2769-find-the-maximum-achievable-number) |
 | [3270-find-the-key-of-the-numbers](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3270-find-the-key-of-the-numbers) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3370-smallest-number-with-all-set-bits) |
