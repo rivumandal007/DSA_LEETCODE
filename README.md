@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0043-multiply-strings) |
 | [0115-distinct-subsequences](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0412-fizz-buzz](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0412-fizz-buzz) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0120-triangle) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0844-backspace-string-compare) |
 | [1096-brace-expansion-ii](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -467,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
