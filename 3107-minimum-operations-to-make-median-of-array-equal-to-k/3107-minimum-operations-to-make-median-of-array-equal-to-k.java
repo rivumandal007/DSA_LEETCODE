@@ -47,65 +47,65 @@ class Solution {
             }
 
         }else {
-    int mid = n / 2;
-    int prev = mid - 1;
-    int next = mid + 1;
-    int count = 1;
+            int mid = n / 2;
+            int prev = mid - 1;
+            int next = mid + 1;
+            int count = 1;
 
-    while (nums[mid] != k) {
+            while (nums[mid] != k) {
 
-        if (nums[mid] > k) {
-            int gap = nums[mid] - k;
+                if (nums[mid] > k) {
+                    int gap = nums[mid] - k;
 
-            if (prev < 0) {
-                ans += (long) count * gap;
-                break;
-            }
+                    if (prev < 0) {
+                        ans += (long) count * gap;
+                        break;
+                    }
 
-            int eleGap = nums[mid] - nums[prev];
+                    int eleGap = nums[mid] - nums[prev];
 
-            if (eleGap == 0) {
-                prev--;
-                count++;
-                continue;
-            }
+                    if (eleGap == 0) {
+                        prev--;
+                        count++;
+                        continue;
+                    }
 
-            if (gap > eleGap) {
-                nums[mid] -= eleGap;
-                ans += (long) count * eleGap;
-            } else {
-                nums[mid] = k;
-                ans += (long) count * gap;
+                    if (gap > eleGap) {
+                        nums[mid] -= eleGap;
+                        ans += (long) count * eleGap;
+                    } else {
+                        nums[mid] = k;
+                        ans += (long) count * gap;
+                    }
+                }
+
+                if (nums[mid] < k) {
+                    int gap = k - nums[mid];
+
+           
+                    if (next >= n) {
+                        ans += (long) count * gap;
+                        break;
+                    }   
+
+                    int eleGap = nums[next] - nums[mid];
+
+                    if (eleGap == 0) {
+                        next++;
+                        count++;
+                        continue;
+                    }
+
+                    if (gap > eleGap) {
+                        nums[mid] += eleGap;
+                        ans += (long) count * eleGap;
+                    } else {
+                        nums[mid] = k;
+                        ans += (long) count * gap;
+                    }
+                }
             }
         }
-
-        if (nums[mid] < k) {
-            int gap = k - nums[mid];
-
-            // No element on the right
-            if (next >= n) {
-                ans += (long) count * gap;
-                break;
-            }
-
-            int eleGap = nums[next] - nums[mid];
-
-            if (eleGap == 0) {
-                next++;
-                count++;
-                continue;
-            }
-
-            if (gap > eleGap) {
-                nums[mid] += eleGap;
-                ans += (long) count * eleGap;
-            } else {
-                nums[mid] = k;
-                ans += (long) count * gap;
-            }
-        }
-    }
-}
         return ans;
 
         
