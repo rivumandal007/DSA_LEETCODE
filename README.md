@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1446-consecutive-characters](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1446-consecutive-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1096-brace-expansion-ii) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Queue
@@ -486,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
