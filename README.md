@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3842-toggle-light-bulbs](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3842-toggle-light-bulbs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3886-sum-of-sortable-integers) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3904-smallest-stable-index-ii) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3745-maximize-expression-of-three-elements](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3745-maximize-expression-of-three-elements) |
 | [3842-toggle-light-bulbs](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3842-toggle-light-bulbs) |
+| [3886-sum-of-sortable-integers](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3886-sum-of-sortable-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3871-count-commas-in-range-ii](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3886-sum-of-sortable-integers) |
 ## Enumeration
 |  |
 | ------- |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3411-maximum-subarray-with-equal-products](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3745-maximize-expression-of-three-elements](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3745-maximize-expression-of-three-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3886-sum-of-sortable-integers) |
 ## Number Theory
 |  |
 | ------- |
