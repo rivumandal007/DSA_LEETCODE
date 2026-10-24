@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-largest-3-same-digit-number-in-string](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2399-check-distances-between-same-letters](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2399-check-distances-between-same-letters) |
+| [2409-count-days-spent-together](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2409-count-days-spent-together) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2559-count-vowel-strings-in-ranges) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2235-add-two-integers](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2235-add-two-integers) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2409-count-days-spent-together](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2409-count-days-spent-together) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2579-count-total-number-of-colored-cells](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2579-count-total-number-of-colored-cells) |
