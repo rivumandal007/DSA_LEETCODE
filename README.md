@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
