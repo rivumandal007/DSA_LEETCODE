@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3842-toggle-light-bulbs](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3842-toggle-light-bulbs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3886-sum-of-sortable-integers) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3903-smallest-stable-index-i) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3370-smallest-number-with-all-set-bits](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sliding Window
 |  |
 | ------- |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3524-find-x-value-of-array-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2500-delete-greatest-value-in-each-row](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Simulation
 |  |
