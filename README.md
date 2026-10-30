@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3775-reverse-words-with-same-vowel-count](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Greedy
 |  |
 | ------- |
@@ -523,10 +524,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1046-last-stone-weight) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2500-delete-greatest-value-in-each-row) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Graph Theory
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Linked List
 |  |
 | ------- |
@@ -582,4 +585,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
