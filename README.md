@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2682-find-the-losers-of-the-circular-game) |
+| [2747-count-zero-request-servers](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2784-check-if-array-is-good) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2399-check-distances-between-same-letters](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2399-check-distances-between-same-letters) |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2682-find-the-losers-of-the-circular-game) |
+| [2747-count-zero-request-servers](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2784-check-if-array-is-good) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [2747-count-zero-request-servers](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2747-count-zero-request-servers](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2747-count-zero-request-servers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
