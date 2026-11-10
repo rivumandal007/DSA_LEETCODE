@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3693-climbing-stairs-ii) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3524-find-x-value-of-array-i) |
 | [3665-twisted-mirror-path-count](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Matrix
 |  |
