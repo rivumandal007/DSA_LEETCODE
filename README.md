@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2105-watering-plants-ii](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2105-watering-plants-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2697-lexicographically-smallest-palindrome) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## String
 |  |
