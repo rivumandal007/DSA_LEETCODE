@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
