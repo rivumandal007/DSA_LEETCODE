@@ -1,22 +1,39 @@
 
 class Solution {
     public String digitSum(String s, int k) {
-        while(s.length() > k){
-            StringBuilder sb = new StringBuilder();
+        StringBuilder sb = new StringBuilder(s);
+        int n = sb.length();
+        int i = n;
 
-            for(int i = 0; i < s.length(); i += k){
-                int sum = 0;
+        while(i > k){
+            int sum = 0;
+            int count = 0;
+            int j = 0;
+            int idx = 0;
 
-                for(int j = i; j < Math.min(i + k, s.length()); j++){
-                    sum += s.charAt(j) - '0';
+            StringBuilder temp = new StringBuilder();
+
+            while(j < i){
+                sum += sb.charAt(j) - '0';
+                j++;
+                count++;
+
+                if(count == k){
+                    temp.append(sum);
+                    sum = 0;
+                    count = 0;
+                    idx++;
                 }
 
-                sb.append(sum);
+                if(j == i && count > 0){
+                    temp.append(sum);
+                }
             }
 
-            s = sb.toString();
+            sb = temp;
+            i = sb.length();
         }
 
-        return s;
+        return sb.toString();
     }
 }
