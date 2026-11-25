@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0050-powx-n) |
 | [0412-fizz-buzz](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -614,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0050-powx-n) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 ## Combinatorics
 |  |
