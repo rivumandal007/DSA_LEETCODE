@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0953-verifying-an-alien-dictionary](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0953-verifying-an-alien-dictionary) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1051-height-checker](https://github.com/rivumandal007/DSA_LEETCODE/tree/master/1051-height-checker) |
